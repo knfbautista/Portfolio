@@ -1,0 +1,115 @@
+.main-header{
+    background: url(../Images/_Cover\ smoke.png);
+    min-height: 800px;
+    background-size: cover;
+    
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.navigation-bar{
+    width: 100%;
+    height: 120px;
+    box-shadow: none;
+}
+
+
+
+.logo{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.navigation-bar ul{
+    padding: 0;
+}
+
+
+.navigation-bar a{
+    display: inline-block;
+    margin-right: 20px;
+    text-align: right;
+    width: 100px;
+    padding: 20px 15px;
+    text-align: center;
+}
+
+.material-icons{
+    padding-top: 10px;
+}
+
+.sidenav{
+    height: 100%;
+}
+
+.sidenav ul{
+    display: block;
+    margin-top: 100%;
+    text-align: center;
+    
+}
+
+.text{
+    margin-top: 200px;
+    font-family: "Arial Black", "Arial Bold", Gadget, sans-serif; font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px;
+}
+
+.textsub{
+    font-family: Gadget, sans-serif; font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal;
+    line-height: 26.4px;
+}
+
+.card{
+    margin-top: 40px;
+    border-radius: 20px;
+    margin-bottom: 140px;
+}
+
+.projects{
+    margin-top:10px;
+}
+
+.projects h2{
+    padding-top: 80px;
+}
+
+.responsive{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    max-height: 300px;
+    
+}
+
+.about{
+    margin-top: 10px;
+}
+
+.about h2{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.about-photo{
+    margin-top: -10px;
+}
+
+.about-content{
+    margin-bottom: 130px;
+}
